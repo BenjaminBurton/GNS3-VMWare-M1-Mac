@@ -10,10 +10,10 @@
 1. Go to the [GNS github](https://github.com/GNS3/gns3-gui/releases/tag/v2.2.38) and download the ARM64 2.2.38 zip file && the dmg desktop application file.
 
 2. Open VMware and select `create custom virtual machine` and select continue
-[install](install-method.png)
+![screenshot](install-method.png)
 
 3. Select Ubuntu 64-bit Arm `my version is Arm because im on Mac` choose your version for your machine and, select continue.
-[Operating System](systemOp.png)
+![screenshot](systemOp.png)
 
 4. On the choose a virtual disk page select `use an existing virtual disk` and `upload the vmdk disk 1 from zip file` then `select continue`.
 
